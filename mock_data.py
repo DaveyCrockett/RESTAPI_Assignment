@@ -15,7 +15,7 @@ catalog = [
         "price": 69.99,
         "stock": 10,
         "image": "dogFood.jpg",
-        "category": "Dog Food"
+        "category": "Dog Food 2"
     },
     {
         "_id": "789456yuia",
